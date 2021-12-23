@@ -359,10 +359,10 @@ input:-webkit-autofill {
   display: block;
 }
 .checkbox input[type="checkbox"]:checked + span:before {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 24px;
   box-shadow: none;
-  color: #2cc5d2;
+  color: #208d97;
   margin-top: -1px;
   font-family: "percolate";
   speak: none;
